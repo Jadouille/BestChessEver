@@ -9,7 +9,7 @@ public interface Peace {
     public void move();
     public ArrayList<Coordinate> calcul8Position();
     public void dye();
-
+    public void test();
 
 
 }
